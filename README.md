@@ -1,0 +1,1 @@
+Python script demonstrating PostgreSQL connection pooling with psycopg2. Includes functions to initialize a database, insert sample movie records, and query movies by year or top-rated. Efficient and safe connection handling with a threaded pool.
